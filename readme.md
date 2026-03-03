@@ -1,6 +1,6 @@
 # Shift HD function
 
-This is a Pyton implementation of the shift function which compares two distributions.
+This is a Python implementation of the shift function which compares two distributions.
 
 Orginal in R: https://github.com/GRousselet/blog/blob/master/shift_function/wilcox_modified.txt
 
